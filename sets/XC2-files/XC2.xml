@@ -1,0 +1,1825 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>XC2</name>
+			<longname>Xenoblade 2 Set for GitHub</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-20</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Female Light Chroma Katana</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures has &quot;Whenever this creature attacks, it gets +1/+1 until end of turn.&quot;</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/0.png" num="13">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Male Electric Megalance</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, both creatures have first strike.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/1.png" num="18">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Animal Water Twin Rings</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, both creatures have lifelink.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/2.png" num="4">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indoline Reinforcements</name>
+			<text>When this creature enters, if an opponent controls a tapped creature, create a 1/2 white and blue Indoline Monk creature token.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/3.png" num="15">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Indoline Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Argentum Carrier</name>
+			<text>This creature saddles Mounts as though its power were 2 greater.
+Whenever a Mount saddled by this creature deals damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/4.png" num="7">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Employee</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardainian Soldier</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/5.png" num="6">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armu</name>
+			<text>Whenever you sacrifice a Food, this creature gains vigilance until end of turn.
+When this creature dies, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/6.png" num="8">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Levma Bunnit</name>
+			<text>As long as this creature is equipped, it gets +2/+0 and has first strike.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/7.png" num="17">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indoline Sentinel</name>
+			<text>Vigilance
+Whenever Offensive Indoline Sentinel attacks while saddled, you may tap target creature you don&apos;t control.
+Saddle 3 (Tap any number of other creatures you control with total power 3 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/8.png" num="16">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Titan Mount</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doubloons Collector</name>
+			<text>When this creature enters, choose one —
+• Scry X, where X is the number of Treasure tokens you control.
+• Gain X life, where X is the number of Treasure tokens you control.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/9.png" num="11">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardainian Cetus</name>
+			<text>Flying
+This creature enters with a +1/+1 counter on it.
+Whenever this creature attacks while saddled, it gains +2/+0 until end of turn.
+Saddle 1 (Tap any number of other creatures you control with total power 1 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/10.png" num="5">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Titan Mount</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreadnik Jagron</name>
+			<text>Vigilance
+This creature enters with a +1/+1 counter on it.
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/11.png" num="12">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Photon</name>
+			<text>Put a +1/+1 counter on target attacking creature.
+Draw a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/12.png" num="19">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gamma Ray</name>
+			<text>Gamma Ray deals 4 damage to target attacking, blocking or tapped creature. If your Elemental Combo is one or more, scry 3. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/13.png" num="14">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Core Crystal Cleansing</name>
+			<text>The next creature spell you cast this turn enters with a counter of your choice from among first strike, vigilance, and lifelink. If is a Blade, it enters with an additional +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/14.png" num="10">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ceremony Command</name>
+			<text>Create three 1/2 white and blue Indoline Monk creature tokens. You gain 3 life.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/15.png" num="9">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Battle!!</name>
+			<text>(Remove a melody counter from Songs you control at the beginning of your
+end step, when a Song have no melody counters on it, sacrifice it.)
+Whenever you attack with one or more creatures, attacking creatures you control get +1/+1 until end of turn.
+Whenever you deal combat damage to a player, put a melody 
+counter on this enchantment</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/16.png" num="3">XC2</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Enchantment — Song</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2</pt>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Male Water Shield Hammer</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures gets +0/+2.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/17.png" num="32">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Male Ice Ether Cannon</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures have &quot;Whenever this creature becomes tapped, target creature get -2/-0 until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/18.png" num="31">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brute Ice Knuckle Claws</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures has &quot;{2}{U}: Tap target creature or artifact. Activate only once each turn.&quot;</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/19.png" num="24">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indoline Messenger</name>
+			<text>When Indoline Messenger enters, Scry 2. If an opponent controls a tapped creature, draw a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/20.png" num="29">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Indoline Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tantalese Knight</name>
+			<text>Vigilance
+This creature can&apos;t be blocked as long as you have discarded a card this turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/21.png" num="35">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Quadwing</name>
+			<text>Flying
+Wit {U}{U} (When this creature enters, add {U}{U}. Use this mana only to cast artifact, instant or sorcery spells.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/22.png" num="33">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sentry-Type</name>
+			<text>When this creature dies, look at the top five cards of your library. You may reveal an artifact creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/23.png" num="34">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Sovereign</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Climber Crustip</name>
+			<text>Whenever this creature blocks, it gets +0/+2.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/24.png" num="25">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Indoline Transport Ship</name>
+			<text>Flying
+Whenever this creature attacks while saddled, you may put a stun counter on target nonland permanent you don&apos;t control.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/25.png" num="30">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Titan Mount</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bagoan Kustal-Type</name>
+			<text>Whenever another artifact or creature you control enters, this creature gains flying until end of turn. If it was an artifact creature, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/26.png" num="23">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Sovereign</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abrachi Aries</name>
+			<text>Defender
+As long as there are at least three instant or sorcery cards in your graveyard, this creature can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/27.png" num="21">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crane Serprond</name>
+			<text>Flying
+When this creature enters, return up to one instant or sorcery card from your graveyard to your hand.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/28.png" num="26">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aqua</name>
+			<text>Look the top card of your library. You may shuffle.
+Draw a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/29.png" num="22">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Venom Water</name>
+			<text>This spell cost {1} less to cast if your Elemental Combo is one or more, (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)
+Draw two cards.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/30.png" num="36">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elemental</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice</name>
+			<text>Target creature you don&apos;t control gets -2/-0 until end of turn.
+Untap target creature you control.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/31.png" num="28">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Freeze</name>
+			<text>Tap target creature and put a stun counter on it. If your Elemental Combo is one or more, put an additional stun counter on that creature. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/32.png" num="27">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Still, Move Forward!</name>
+			<text>(Remove a melody counter from Songs you control at the beginning of your
+end step, when a Song have no melody counters on it, sacrifice it.)
+At the beginning of your end step, if you have six or less cards in your hand, draw a card.
+Whenever you are attacked, put a melody counter on 
+this enchantment.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/33.png" num="20">XC2</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Enchantment — Song</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2</pt>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Animal Dark Twin Rings</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures have &quot;Whenever this creature attacks, defending player loses 1 life and you gain 1 life.&quot;</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/34.png" num="38">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brute Earth Ether Cannon</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, both creatures have deathtouch.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/35.png" num="41">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Female Dark Shield Hammer</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures has &quot;Whenever this creature becomes blocked, the blocking creature&apos;s controller loses 2 life.&quot;</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/36.png" num="43">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Argentum&apos;s Exchange Cashier</name>
+			<text>When this creature enters, you may discard a card. If you do, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/37.png" num="39">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Employee</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heggl Antol</name>
+			<text>Deathtouch
+When this creature enters, each player discards a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/38.png" num="46">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tirkin Vaugel</name>
+			<text>{B}, Pay 1 life: This creature gets +2/+0 until end of turn. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/39.png" num="53">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mabalus Parisax</name>
+			<text>When this creature dies, put a -1/-1 counter on up to one target creature.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/40.png" num="47">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grebel</name>
+			<text>{2}{B}: Return this creature from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/41.png" num="45">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mouse Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merchant Titan-Ship</name>
+			<text>Flying
+Whenever this creature attacks while saddled, you may sacrifice a Treasure token. If you do, draw a card.
+Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/42.png" num="48">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Titan Mount</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rebellious Tantalese Knight</name>
+			<text>When this creature enters, it connives. 
+This creature has first strike as long as you&apos;ve committed a crime this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/43.png" num="49">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ropl</name>
+			<text>Menace
+When this creature enters, mill three cards. Then if your life total is less than or equal to half your starting life total, put a card among them into your hand.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/44.png" num="50">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elidor Parisax</name>
+			<text>Menace
+When this creature enters, you may distribute two -1/-1 counters among up to two target creatures.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/45.png" num="42">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gravity</name>
+			<text>Put a -1/-1 counter on target creature.
+Draw a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/46.png" num="44">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elemental</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Black Abyss</name>
+			<text>Target creature gets -2/-2 until end of turn. If your Elemental Combo is one or more, it gets -4/-4 instead. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/47.png" num="40">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Salvaging Minigame</name>
+			<text>As an additional cost to cast this spell, exile three cards from your graveyard.
+Flip three coins. For each flip you win, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/48.png" num="51">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shared Pain</name>
+			<text>Until end of turn, all damage that would be dealt to target paired creature, is also dealt to the creature paired with it.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/49.png" num="52">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Loneliness</name>
+			<text>(Remove a melody counter from Songs you control at the beginning of your
+end step, when a Song have no melody counters on it, sacrifice it.)
+Whenever a creature you control dies, you may put a -1/-1 counter on target creature.
+At the beginning of your end step, if one or more creatures you controlled died this turn, put a melody counter on this enchantment.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/50.png" num="37">XC2</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Enchantment — Song</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2</pt>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Male Fire Shield Hammer Blade</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures have &quot;Whenever this creature becomes blocked, it deals 1 damage to each player.&quot;</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/51.png" num="65">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Male Fire Knuckle Claws</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures gets +2/+0.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/52.png" num="64">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Female Electric Bitball</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, both creatures have menace.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/53.png" num="62">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardainian Nipper</name>
+			<text>This creature enters with a +1/+1 counter on it.
+Whenever this creature attacks, if it is attacking with one or more other creatures, it gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/54.png" num="57">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorpox</name>
+			<text>Whenever you cast an artifact, instant or sorcery spell, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/55.png" num="67">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Scorpion</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Amost Igna</name>
+			<text>{R}, Pay 2 life: This creature gains first strike until end of turn. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/56.png" num="56">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volff</name>
+			<text>Trample
+Whenever this creature attacks, another target creature you control with power 2 or less get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/57.png" num="69">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspar</name>
+			<text>First strike
+{2}{R}: This creature deals 1 damage to any target that was dealt combat damage by this creature this turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/58.png" num="59">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Snake Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ardainian Raider</name>
+			<text>Haste
+When this creature enters, you may move a counter from another creature into this creature.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/59.png" num="58">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhinon</name>
+			<text>When this creature enters, choose one —
+• Destroy target artifact.
+• This creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/60.png" num="66">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bufoolo</name>
+			<text>Menace
+Wit {R}{R} (When this creature enters, add {R}{R}. Use this mana only to cast artifact, instant or sorcery spells.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/61.png" num="60">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vokkon Griffox</name>
+			<text>First strike
+As long as your life total is less than or equal to half your starting life total, this creature gets +2/+2.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/62.png" num="68">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heat</name>
+			<text>Target creature gets +3/+1.
+Draw a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/63.png" num="63">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elemental</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Etheric Burnout</name>
+			<text>Etheric Burnout deals 1 damage to each of up to three creatures. If your Elemental Combo is one or more, those creatures can&apos;t block this turn. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/64.png" num="61">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elemental</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volt</name>
+			<text>Deal 2 damage to any target.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/65.png" num="70">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>1,000,000 Volt</name>
+			<text>This spell cost {2} less to cast if your Elemental Combo is one or more, (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)
+Deal 4 damage to any target.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/66.png" num="55">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Battle!!/Torna</name>
+			<text>(Remove a melody counter from Songs you control at the beginning of your 
+end step, when a Song have no melody counters on it, sacrifice it.)
+Whenever you attack with one or more creatures, you may exile the top card of your library, you may play that card until the end of your next turn.
+Whenever you deal combat damage to a player, put a melody counter 
+on this enchantment</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/67.png" num="54">XC2</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Enchantment — Song</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2</pt>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Male Wind Chroma Katana</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures gets +1/+1.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/68.png" num="81">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Animal Earth Twin Rings</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, each of those creatures have &quot;{1}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/69.png" num="72">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Female Wind Greataxe</name>
+			<text>Resonance (You may pair this creature with another unpaired non-Blade creature when either enters. They remain paired for as long as you control both of them.)
+As long as this creature is paired with another creature, both creatures have trample.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/70.png" num="76">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haldood Tirkin</name>
+			<text>Vigilance
+When this creature enters, if you control a Food, it gets +1/+1 and haste until end of turn. Otherwise, create a Food token. (It&apos;s an artifact with &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/71.png" num="80">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dajan Phoebus-Type</name>
+			<text>When this creature dies, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/72.png" num="74">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Sovereign</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strom Gyanna</name>
+			<text>As long as you control another creature with a -1/-1 counter on it, this creature has trample and gets +2/+0.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/73.png" num="85">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gogol Drum</name>
+			<text>Trample
+Whenever another creature you control with power greater than its toughness enters, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/74.png" num="79">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pippito</name>
+			<text>This creature has hexproof as long as it&apos;s untapped.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/75.png" num="82">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Weasel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urayan Soldier</name>
+			<text>When this creature enters, target creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/76.png" num="86">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Belgio Radclyffe-Type</name>
+			<text>Vigilance
+When this creature enters or dies, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/77.png" num="73">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Sovereign</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rhana</name>
+			<text>Drained 2 (This creature enters with two -1/-1 counters on it. Whenever one or more permanent cards are put into your graveyard from anywhere, remove a -1/-1 counter from this creature.)
+This creature can&apos;t be blocked by more than one creature as long as it doesn&apos;t have a -1/-1 counter on it.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/78.png" num="83">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Field Ardun</name>
+			<text>Trample
+Sacrifice a Food: This creature gets +2/+2 until end of turn.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/79.png" num="77">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wind</name>
+			<text>Choose one—
+• Wind deals 5 damage to target creature with flying.
+• Target creature you control fights target creature without flying you don&apos;t control.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/80.png" num="87">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Etheric Cyclone</name>
+			<text>Untap target creature. It gets +1/+1 and gains reach until end of turn. If your Elemental Combo is one or more, that creature gets an additional +2/+2 until end of turn. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/81.png" num="75">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stone</name>
+			<text>Target creature gets +3/+3 until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/82.png" num="84">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elemental</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gaia Crash</name>
+			<text>Put a +1/+1 counter on target creature. If your Elemental Combo is one or more, put two additional +1/+1 counters on that creature. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/83.png" num="78">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elysium, in the Dream</name>
+			<text>(Remove a melody counter from Songs you control at the beginning of your end step, when a Song have no melody counters on it, sacrifice it.)
+Whenever you remove a melody counter from this enchantment, look the top card of your library. If is a creature or land card, you may reveal it and put it into your hand. Otherwise, put it in the bottom 
+of your library and put a melody counter on this enchantment.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/84.png" num="71">XC2</set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Enchantment — Song</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2</pt>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Etheric Cold Snap</name>
+			<text>Choose one. If your Elemental Combo is one or more, you may choose both. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)
+• Tap target creature.
+• Untap target creature.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/85.png" num="90">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pandemic</name>
+			<text>Target creature you control connives. Then if your Elemental Combo is one or more, return target card that has been discarded this turn from your graveyard to your hand. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/86.png" num="94">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>2U/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flame Bolt</name>
+			<text>Flame Bolt deals 2 damage to each player. If your Elemental Combo is one or more, target creature you control get +X/+0 until end of turn, where X is the amount of life players have lost this turn. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/87.png" num="92">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volcano</name>
+			<text>Destroy target artifact or nonbasic land. If your Elemental Combo is one or more, Volcano deals damage to that permanent&apos;s controller equal to the number of basic lands you control. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/88.png" num="97">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>2R/G</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CM05 hybrid GW common</name>
+			<text>Target creature you control gains hexproof until end of turn. You gain life equal to its toughness.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/89.png" num="88">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ray of Light</name>
+			<text>Target creature gains flying and lifelink until end of turn. If your Elemental Combo is one or more, put a +1/+1 counter on that creature. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/90.png" num="95">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CM07 hybrid BG common</name>
+			<text>Target creature you control gains deathtouch and indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/91.png" num="89">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice Wind</name>
+			<text>Target creature you control gains hexproof until end of turn. If your Elemental Combo is one or more, that creature has base power and toughness 4/4 until end of turn. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/92.png" num="93">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steam Bomb</name>
+			<text>Switch target creature&apos;s power and toughness until end of turn. If your Elemental Combo is one or more, draw a card. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/93.png" num="96">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>U/R</manacost>
+				<cmc>1</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Etheric Lightning Bolt</name>
+			<text>Target creature you control gains first strike until end of turn. If your Elemental Combo is one or more, that creature gains double strike until end of turn instead. (Your Elemental Combo is the number of Elemental spells that resolved under your control this turn plus the number of Elemental permanents you control that dealt damage this turn.)</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/94.png" num="91">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elemental</type>
+				<maintype>Instant</maintype>
+				<manacost>R/W</manacost>
+				<cmc>1</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blade Bot</name>
+			<text>Flying, vigilance</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/95.png" num="98">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Blade Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Common Core Crystal</name>
+			<text>{1}, {T}, Sacrifice this artifact: Reveal cards from the top of your library until you reveal a Blade creature card, put that card into your hand, then shuffle your library.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/96.png" num="99">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elemental Booster</name>
+			<text>{T}: Add a mana of any color. Spend this mana only to cast Elemental spells.
+{2}, {T}, Sacrifice this artifact: Search your library for an Elemental card, reveal it, put it onto your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/97.png" num="100">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Break</name>
+			<text>Break deals 1 damage to target creature you don&apos;t control with toughness 2 or greater.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/98.png" num="1">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Topple</name>
+			<text>Tap target creature you don&apos;t control that was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/99.png" num="2">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Golden Chip</name>
+			<text>Equipped creature gets +1/+0 and has &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;
+Equip {1}</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/100.png" num="101">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Silver Chip</name>
+			<text>Equipped creature gets +1/+0 and has &quot;Whenever this creature deals combat damage to a player, create a Treasure token.&quot;
+Equip {1}</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/101.png" num="102">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tachyon Chip</name>
+			<text>As long as the equipped creature&apos;s power is greater than its toughness, it gets +2/+0.
+As long as the equipped creature&apos;s power and toughness are equal, it gets +1/+1.
+As long as the equipped creature&apos;s toughness is greater than its power, it gets +0/+2.
+Equip {1}</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/102.png" num="104">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunlight Chip</name>
+			<text>As long as the equipped creature&apos;s power is greater than its toughness, it has trample.
+As long as the equipped creature&apos;s power and toughness are equal, it has first strike.
+As long as the equipped creature&apos;s toughness is greater than its power, it has vigilance.
+Equip {1}</text>
+			<set rarity="common" picurl="https://Wildspeaker.github.io/sets/XC2-files/img/103.png" num="103">XC2</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
