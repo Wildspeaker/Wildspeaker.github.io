@@ -1,0 +1,1160 @@
+[CustomCards]
+	[	{
+			"name": "Female Electric Chroma Katana",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Female Electric Chroma Katana.png"
+			}
+		},
+		{
+			"name": "Male Electric Megalance",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Male Electric Megalance.png"
+			}
+		},
+		{
+			"name": "Animal Water Twin Rings",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Animal Water Twin Rings.png"
+			}
+		},
+		{
+			"name": "Indoline Reinforcements",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Indoline Monk ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Indoline Reinforcements.png"
+			}
+		},
+		{
+			"name": "Argentum Carrier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Employee ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Argentum Carrier.png"
+			}
+		},
+		{
+			"name": "Ardainian Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ardainian Soldier.png"
+			}
+		},
+		{
+			"name": "Armu",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Armu.png"
+			}
+		},
+		{
+			"name": "Levma Bunnit",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Rabbit ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Levma Bunnit.png"
+			}
+		},
+		{
+			"name": "Indoline Sentinel",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Titan Mount ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Indoline Sentinel.png"
+			}
+		},
+		{
+			"name": "Doubloons Collector",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird Citizen ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Doubloons Collector.png"
+			}
+		},
+		{
+			"name": "Ardainian Cetus",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Titan Mount ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ardainian Cetus.png"
+			}
+		},
+		{
+			"name": "Dreadnik Jagron",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Bird Wolf ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Dreadnik Jagron.png"
+			}
+		},
+		{
+			"name": "Photon",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Photon.png"
+			}
+		},
+		{
+			"name": "Gamma Ray",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Gamma Ray.png"
+			}
+		},
+		{
+			"name": "Core Crystal Cleansing",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Core Crystal Cleansing.png"
+			}
+		},
+		{
+			"name": "Ceremony Command",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ceremony Command.png"
+			}
+		},
+		{
+			"name": "Battle!!",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Song ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Battle!!.png"
+			}
+		},
+		{
+			"name": "Brute Water Shield Hammer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Brute Water Shield Hammer.png"
+			}
+		},
+		{
+			"name": "Female Ice Ether Cannon",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Female Ice Ether Cannon.png"
+			}
+		},
+		{
+			"name": "Male Ice Knuckle Claws",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Male Ice Knuckle Claws.png"
+			}
+		},
+		{
+			"name": "Indoline Messenger",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Indoline Monk ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Indoline Messenger.png"
+			}
+		},
+		{
+			"name": "Tantalese Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Knight ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Tantalese Knight.png"
+			}
+		},
+		{
+			"name": "Quadwing",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Quadwing.png"
+			}
+		},
+		{
+			"name": "Sentry-Type",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct Sovereign ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Sentry-Type.png"
+			}
+		},
+		{
+			"name": "Climber Crustip",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Climber Crustip.png"
+			}
+		},
+		{
+			"name": "Indoline Transport Ship",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Titan Mount ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Indoline Transport Ship.png"
+			}
+		},
+		{
+			"name": "Bagoan Kustal-Type",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Construct Sovereign  ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Bagoan Kustal-Type.png"
+			}
+		},
+		{
+			"name": "Abrachi Aries",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elk  ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Abrachi Aries.png"
+			}
+		},
+		{
+			"name": "Crane Serprond",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Serpent ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Crane Serprond.png"
+			}
+		},
+		{
+			"name": "Aqua",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Aqua.png"
+			}
+		},
+		{
+			"name": "Venom Water",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Sorcery — Elemental  ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Venom Water.png"
+			}
+		},
+		{
+			"name": "Ice",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ice.png"
+			}
+		},
+		{
+			"name": "Freeze",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Freeze.png"
+			}
+		},
+		{
+			"name": "Still, Move Forward!",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Song ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Still, Move Forward!.png"
+			}
+		},
+		{
+			"name": "Animal Dark Twin Rings",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Animal Dark Twin Rings.png"
+			}
+		},
+		{
+			"name": "Brute Earth Ether Cannon",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Brute Earth Ether Cannon.png"
+			}
+		},
+		{
+			"name": "Male Dark Shield Hammer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Male Dark Shield Hammer.png"
+			}
+		},
+		{
+			"name": "Argentum's Exchange Cashier",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bird Employee ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Argentum's Exchange Cashier.png"
+			}
+		},
+		{
+			"name": "Heggl Antol",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Heggl Antol.png"
+			}
+		},
+		{
+			"name": "Tirkin Vaugel",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Warrior ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Tirkin Vaugel.png"
+			}
+		},
+		{
+			"name": "Mabalus Parisax",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Mabalus Parisax.png"
+			}
+		},
+		{
+			"name": "Grebel",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Mouse ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Grebel.png"
+			}
+		},
+		{
+			"name": "Merchant Titan-Ship",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Titan Mount ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Merchant Titan-Ship.png"
+			}
+		},
+		{
+			"name": "Rebellious Tantalese Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight Rebel ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Rebellious Tantalese Knight.png"
+			}
+		},
+		{
+			"name": "Ropl",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ropl.png"
+			}
+		},
+		{
+			"name": "Elidor Parisax",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Elidor Parisax.png"
+			}
+		},
+		{
+			"name": "Gravity",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Kindred Sorcery — Elemental ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Gravity.png"
+			}
+		},
+		{
+			"name": "Black Abyss",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Black Abyss.png"
+			}
+		},
+		{
+			"name": "Salvaging Minigame",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Salvaging Minigame.png"
+			}
+		},
+		{
+			"name": "Shared Pain",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Shared Pain.png"
+			}
+		},
+		{
+			"name": "Loneliness",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Song ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Loneliness.png"
+			}
+		},
+		{
+			"name": "Female Fire Shield Hammer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Female Fire Shield Hammer.png"
+			}
+		},
+		{
+			"name": "Brute Electric Knuckle Claws",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Brute Electric Knuckle Claws.png"
+			}
+		},
+		{
+			"name": "Male Electric Bitball",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Male Electric Bitball.png"
+			}
+		},
+		{
+			"name": "Ardainian Nipper",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog Soldier ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ardainian Nipper.png"
+			}
+		},
+		{
+			"name": "Scorpox",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Scorpion ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Scorpox.png"
+			}
+		},
+		{
+			"name": "Amost Igna",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard Warrior ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Amost Igna.png"
+			}
+		},
+		{
+			"name": "Volff",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Wolf ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Volff.png"
+			}
+		},
+		{
+			"name": "Aspar",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Bird Snake ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Aspar.png"
+			}
+		},
+		{
+			"name": "Ardainian Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ardainian Raider.png"
+			}
+		},
+		{
+			"name": "Rhinon",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Rhino ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Rhinon.png"
+			}
+		},
+		{
+			"name": "Bufoolo",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Beast ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Bufoolo.png"
+			}
+		},
+		{
+			"name": "Vokkon Griffox",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Fox ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Vokkon Griffox.png"
+			}
+		},
+		{
+			"name": "Heat",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Elemental ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Heat.png"
+			}
+		},
+		{
+			"name": "Etheric Burnout",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Sorcery — Elemental ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Etheric Burnout.png"
+			}
+		},
+		{
+			"name": "Volt",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Volt.png"
+			}
+		},
+		{
+			"name": "1,000,000 Volt",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Kindred Instant — Elemental  ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC21,000,000 Volt.png"
+			}
+		},
+		{
+			"name": "Battle!!/Torna",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Song ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Battle!!/Torna.png"
+			}
+		},
+		{
+			"name": "Brute Wind Chroma Katana",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Brute Wind Chroma Katana.png"
+			}
+		},
+		{
+			"name": "Animal Earth Twin Rings",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Animal Earth Twin Rings.png"
+			}
+		},
+		{
+			"name": "Female Wind Greataxe",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Blade Elemental ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Female Wind Greataxe.png"
+			}
+		},
+		{
+			"name": "Haldood Tirkin",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird Warrior ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Haldood Tirkin.png"
+			}
+		},
+		{
+			"name": "Dajan Phoebus-Type",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Construct Sovereign ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Dajan Phoebus-Type.png"
+			}
+		},
+		{
+			"name": "Strom Gyanna",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Insect Plant ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Strom Gyanna.png"
+			}
+		},
+		{
+			"name": "Gogol Drum",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Monkey ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Gogol Drum.png"
+			}
+		},
+		{
+			"name": "Pippito",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Weasel ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Pippito.png"
+			}
+		},
+		{
+			"name": "Urayan Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Urayan Soldier.png"
+			}
+		},
+		{
+			"name": "Belgio Radclyffe-Type",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Construct Sovereign ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Belgio Radclyffe-Type.png"
+			}
+		},
+		{
+			"name": "Rhana",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Frog ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Rhana.png"
+			}
+		},
+		{
+			"name": "Field Ardun",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Dinosaur ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Field Ardun.png"
+			}
+		},
+		{
+			"name": "Wind",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Wind.png"
+			}
+		},
+		{
+			"name": "Etheric Cyclone",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Etheric Cyclone.png"
+			}
+		},
+		{
+			"name": "Stone",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Kindred Sorcery — Elemental ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Stone.png"
+			}
+		},
+		{
+			"name": "Gaia Crash",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Sorcery — Elemental ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Gaia Crash.png"
+			}
+		},
+		{
+			"name": "Elysium, in the Dream",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Song ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Elysium, in the Dream.png"
+			}
+		},
+		{
+			"name": "Etheric Cold Snap",
+			"rarity": "common",
+			"mana_cost": "{1}{W/U}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Etheric Cold Snap.png"
+			}
+		},
+		{
+			"name": "Pandemic",
+			"rarity": "common",
+			"mana_cost": "{2}{U/B}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Pandemic.png"
+			}
+		},
+		{
+			"name": "Flame Bolt",
+			"rarity": "common",
+			"mana_cost": "{1}{B/R}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Flame Bolt.png"
+			}
+		},
+		{
+			"name": "Volcano",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Volcano.png"
+			}
+		},
+		{
+			"name": "CM05 hybrid GW common",
+			"rarity": "common",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2CM05 hybrid GW common.png"
+			}
+		},
+		{
+			"name": "Ray of Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ray of Light.png"
+			}
+		},
+		{
+			"name": "CM07 hybrid BG common",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2CM07 hybrid BG common.png"
+			}
+		},
+		{
+			"name": "Ice Wind",
+			"rarity": "common",
+			"mana_cost": "{1}{G/U}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Ice Wind.png"
+			}
+		},
+		{
+			"name": "Steam Bomb",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Steam Bomb.png"
+			}
+		},
+		{
+			"name": "Etheric Lightning Bolt",
+			"rarity": "common",
+			"mana_cost": "{R/W}",
+			"type": "Kindred Instant — Elemental ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Etheric Lightning Bolt.png"
+			}
+		},
+		{
+			"name": "Blade Bot",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Blade Elemental ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Blade Bot.png"
+			}
+		},
+		{
+			"name": "Common Core Crystal",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Common Core Crystal.png"
+			}
+		},
+		{
+			"name": "Elemental Booster",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Elemental Booster.png"
+			}
+		},
+		{
+			"name": "Break",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Break.png"
+			}
+		},
+		{
+			"name": "Topple",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Topple.png"
+			}
+		},
+		{
+			"name": "Golden Chip",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Golden Chip.png"
+			}
+		},
+		{
+			"name": "Silver Chip",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Silver Chip.png"
+			}
+		},
+		{
+			"name": "Tachyon Chip",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Tachyon Chip.png"
+			}
+		},
+		{
+			"name": "Sunlight Chip",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Sunlight Chip.png"
+			}
+		},
+		{
+			"name": "Affinity Bond",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/Wildspeaker/XC2MSE/main/XC2Affinity Bond.png"
+			}
+		},
+		]
+	[CommonSlot(10)]
+	30 Female Electric Chroma Katana
+		30 Male Electric Megalance
+		30 Animal Water Twin Rings
+		30 Indoline Reinforcements
+		30 Argentum Carrier
+		30 Ardainian Soldier
+		30 Armu
+		30 Levma Bunnit
+		30 Indoline Sentinel
+		30 Doubloons Collector
+		30 Ardainian Cetus
+		30 Dreadnik Jagron
+		30 Photon
+		30 Gamma Ray
+		30 Core Crystal Cleansing
+		30 Ceremony Command
+		30 Battle!!
+		30 Brute Water Shield Hammer
+		30 Female Ice Ether Cannon
+		30 Male Ice Knuckle Claws
+		30 Indoline Messenger
+		30 Tantalese Knight
+		30 Quadwing
+		30 Sentry-Type
+		30 Climber Crustip
+		30 Indoline Transport Ship
+		30 Bagoan Kustal-Type
+		30 Abrachi Aries
+		30 Crane Serprond
+		30 Aqua
+		30 Venom Water
+		30 Ice
+		30 Freeze
+		30 Still, Move Forward!
+		30 Animal Dark Twin Rings
+		30 Brute Earth Ether Cannon
+		30 Male Dark Shield Hammer
+		30 Argentum's Exchange Cashier
+		30 Heggl Antol
+		30 Tirkin Vaugel
+		30 Mabalus Parisax
+		30 Grebel
+		30 Merchant Titan-Ship
+		30 Rebellious Tantalese Knight
+		30 Ropl
+		30 Elidor Parisax
+		30 Gravity
+		30 Black Abyss
+		30 Salvaging Minigame
+		30 Shared Pain
+		30 Loneliness
+		30 Female Fire Shield Hammer
+		30 Brute Electric Knuckle Claws
+		30 Male Electric Bitball
+		30 Ardainian Nipper
+		30 Scorpox
+		30 Amost Igna
+		30 Volff
+		30 Aspar
+		30 Ardainian Raider
+		30 Rhinon
+		30 Bufoolo
+		30 Vokkon Griffox
+		30 Heat
+		30 Etheric Burnout
+		30 Volt
+		30 1,000,000 Volt
+		30 Battle!!/Torna
+		30 Brute Wind Chroma Katana
+		30 Animal Earth Twin Rings
+		30 Female Wind Greataxe
+		30 Haldood Tirkin
+		30 Dajan Phoebus-Type
+		30 Strom Gyanna
+		30 Gogol Drum
+		30 Pippito
+		30 Urayan Soldier
+		30 Belgio Radclyffe-Type
+		30 Rhana
+		30 Field Ardun
+		30 Wind
+		30 Etheric Cyclone
+		30 Stone
+		30 Gaia Crash
+		30 Elysium, in the Dream
+		30 Etheric Cold Snap
+		30 Pandemic
+		30 Flame Bolt
+		30 Volcano
+		30 CM05 hybrid GW common
+		30 Ray of Light
+		30 CM07 hybrid BG common
+		30 Ice Wind
+		30 Steam Bomb
+		30 Etheric Lightning Bolt
+		30 Blade Bot
+		30 Common Core Crystal
+		30 Elemental Booster
+		30 Break
+		30 Topple
+		30 Golden Chip
+		30 Silver Chip
+		30 Tachyon Chip
+		30 Sunlight Chip
+		30 Affinity Bond
+		[LandSlot(1)]
+	
